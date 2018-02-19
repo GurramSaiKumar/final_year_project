@@ -1,3 +1,5 @@
+//adding into the linked list
+
 #include<stdio.h>
 int* add_one(int *arr,int* n){
 	int i,sum=0;
